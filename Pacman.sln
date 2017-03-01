@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BomberMan", "BomberMan.vcxproj", "{A47CE259-5144-4C59-A385-89C6F4235C33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47CE259-5144-4C59-A385-89C6F4235C33}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A47CE259-5144-4C59-A385-89C6F4235C33}.Debug|Win32.Build.0 = Debug|Win32
+		{A47CE259-5144-4C59-A385-89C6F4235C33}.Release|Win32.ActiveCfg = Release|Win32
+		{A47CE259-5144-4C59-A385-89C6F4235C33}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
